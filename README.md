@@ -17,7 +17,7 @@
 
 
   
-<h2>1. Deploying cluster nodes</h2>
+<h2>2. Deploying cluster nodes</h2>
  <ol>
   <li> Installation of OS - Windows Enterprise Edition 2008 R2 </li>
 <li> Assiging IP & DNS Server Addresses to both Node-1 & Node-2</li>
@@ -40,7 +40,7 @@
 <li> Disabling firewall</li>
 </ol>
 
-<h2>4. Configuring Active\Passive SQL Cluster On Node-1 & Node-2 </h2>
+<h2>3. Configuring Active\Passive SQL Cluster On Node-1 & Node-2 </h2>
 <ol>
 <li> adding .Net Extensibility features</li>
 <li> New SQL Server failover cluster installation </li>
@@ -59,7 +59,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Install <br>
 </ol>
 
-<h2>5. Configuring Active\Passive SQL Cluster On Node-2 </h2>
+<h2>4. Configuring Active\Passive SQL Cluster On Node-2 </h2>
 <ol>
 <li> adding .Net Extensibility features</li>
 <li> Add node to failover cluster </li>
