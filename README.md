@@ -27,7 +27,7 @@
 <li>d. Copying\Downloading installer on both nodes</li>
 </ol>
 
-<h2>2. Creating Failover Windows Cluster</h2>
+<h2>3. Creating Failover Windows Cluster</h2>
  <img src="Cluster.JPG">
  <img src="Active_Passive_Cluster.jpg">
 <ol>
@@ -40,7 +40,7 @@
 <li> Disabling firewall</li>
 </ol>
 
-<h2>3. Configuring Active\Passive SQL Cluster On Node-1 & Node-2 </h2>
+<h2>4. Configuring Active\Passive SQL Cluster On Node-1 & Node-2 </h2>
 <ol>
 <li> adding .Net Extensibility features</li>
 <li> New SQL Server failover cluster installation </li>
@@ -59,7 +59,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Install <br>
 </ol>
 
-<h2>4. Configuring Active\Passive SQL Cluster On Node-2 </h2>
+<h2>5. Configuring Active\Passive SQL Cluster On Node-2 </h2>
 <ol>
 <li> adding .Net Extensibility features</li>
 <li> Add node to failover cluster </li>
