@@ -1,18 +1,6 @@
 # Windows_2008_DB_Cluster_Creation
 <h1> Configuring Windows & DB Cluster on Windows 2008 R2 & SQL 2008 R2 <h1>
-  <img src="Active_Passive_Cluster.jpg">
-<h2>1. Creating cluster nodes</h2>
-  <img src="Cluster.JPG">
-<ol>
-  <li> Installation of OS - Windows Enterprise Edition 2008 R2 </li>
-<li> Assiging IP & DNS Server Addresses to both Node-1 & Node-2</li>
-<li> Changing Computer Names</li>
-&nbsp;&nbsp;&nbsp;&nbsp;node-1<br>
-&nbsp;&nbsp;&nbsp;&nbsp;node-2
-<li>d. Copying\Downloading installer on both nodes</li>
-</ol>
-
-<h2>2. Creating Domain Controller</h2>
+<h2>1. Creating Domain Controller</h2>
 <ol>
 <li> Installation of OS - Window Standard \ Enterprise 2008 R2</li>
 <li> Assiging IP & DNS Server Addresses to Domain Controller</li>
@@ -27,7 +15,20 @@
 <li> Validating disk setup using Disk Management</li>
 </ol>
 
-<h2>3. Creating Failover Windows Cluster</h2>
+
+  <img src="Active_Passive_Cluster.jpg">
+<h2>1. Creating cluster nodes</h2>
+  <img src="Cluster.JPG">
+<ol>
+  <li> Installation of OS - Windows Enterprise Edition 2008 R2 </li>
+<li> Assiging IP & DNS Server Addresses to both Node-1 & Node-2</li>
+<li> Changing Computer Names</li>
+&nbsp;&nbsp;&nbsp;&nbsp;node-1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;node-2
+<li>d. Copying\Downloading installer on both nodes</li>
+</ol>
+
+<h2>2. Creating Failover Windows Cluster</h2>
 <ol>
 <li> Adding Windows Failover Cluster on both nodes</li>
 &nbsp;&nbsp;&nbsp;&nbsp;Add cluster server name<br>
