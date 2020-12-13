@@ -2,6 +2,7 @@
 <h1> Configuring Windows & DB Cluster on Windows 2008 R2 & SQL 2008 R2 <h1>
   <img src="Active_Passive_Cluster.jpg">
 <h2>1. Creating cluster nodes</h2>
+  <img src="Cluster.JPG">
 <ol>
   <li> Installation of OS - Windows Enterprise Edition 2008 R2 </li>
 <li> Assiging IP & DNS Server Addresses to both Node-1 & Node-2</li>
