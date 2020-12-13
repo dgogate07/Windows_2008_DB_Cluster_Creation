@@ -16,10 +16,9 @@
 </ol>
 
 
-  <img src="Active_Passive_Cluster.jpg">
-<h2>1. Creating cluster nodes</h2>
-  <img src="Cluster.JPG">
-<ol>
+  
+<h2>1. Deploying cluster nodes</h2>
+ <ol>
   <li> Installation of OS - Windows Enterprise Edition 2008 R2 </li>
 <li> Assiging IP & DNS Server Addresses to both Node-1 & Node-2</li>
 <li> Changing Computer Names</li>
@@ -29,6 +28,8 @@
 </ol>
 
 <h2>2. Creating Failover Windows Cluster</h2>
+ <img src="Cluster.JPG">
+ <img src="Active_Passive_Cluster.jpg">
 <ol>
 <li> Adding Windows Failover Cluster on both nodes</li>
 &nbsp;&nbsp;&nbsp;&nbsp;Add cluster server name<br>
